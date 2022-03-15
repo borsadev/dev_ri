@@ -1,0 +1,1 @@
+declare module 'vue3-gmap-custom-marker';
